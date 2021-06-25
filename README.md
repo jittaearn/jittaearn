@@ -1,5 +1,11 @@
 ### Hi there 👋
+#### My name is Earn. Currently, a fourth-year Software & Knowledge Engineering student at Kasetsart University. I am interested in software development, and I enjoyed working on FrontEnd development. Nevertheless, I am eager to work more on BackEnd development and data analysis.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jittaearn&hide=stars&show_icons=true&?count_private=true&theme=tokyonight
+)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jittaearn&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 Connect with me! 
 <!--
 **jittaearn/jittaearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
